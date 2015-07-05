@@ -2,6 +2,6 @@
 
 This is a test file.
 
-# Item 1
-# Item B
-# Item Gamma
+* Item 1
+* Item B
+* Item Gamma
